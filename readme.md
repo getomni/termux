@@ -7,7 +7,7 @@
 This theme is based on [Omni for Hyper](https://github.com/getomni/hyper-omni).
 
 ## Install
-To install Download the [color.properties](./color.properties) file and move it to **~/.termux.** Open a new session or the application. :tada:
+To install Download the [colors.properties](./colors.properties) file and move it to **~/.termux.** Open a new session or the application. :tada:
  
 ## Maintainers
  
