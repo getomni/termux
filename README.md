@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/termux/graphs/contributors).
 
-| [![Guilherme da Silva Benevides](https://github.com/gabenevides2.png?size=100)](https://github.com/gsbenevides2) |
+| [![Guilherme da Silva Benevides](https://github.com/gsbenevides2.png?size=100)](https://github.com/gsbenevides2) |
 | ------------------------------------------------------------------------------------------------ |
-| [Guilherme da Silva Benevides](https://github.com/gabenevides2)                                                   |
+| [Guilherme da Silva Benevides](https://github.com/gsbenevides2)                                                   |
 
 ## License
 
